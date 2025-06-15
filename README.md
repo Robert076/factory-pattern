@@ -3,7 +3,7 @@ Practicing the factory design pattern. A useful example in python too.
 
 The factory example is useful in cases that sound like this:
 
-> I want a <object> but I can't be bothered to know how it is made
+`I want a <object> but I can't be bothered to know how it is made`
 
 That is where factory comes into play.
 
